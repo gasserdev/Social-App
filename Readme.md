@@ -1,2 +1,3 @@
-#Simple Social Media App
+# Simple Social Media App
 ---
+Login & Register With **Firebase**
